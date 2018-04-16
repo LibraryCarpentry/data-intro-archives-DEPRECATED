@@ -1,3 +1,7 @@
+This repo has now been moved to the Library Carpentry organisation.
+
+Find it there: https://github.com/LibraryCarpentry/lc-data-intro-archives/
+
 # Library Carpentry
 
 The Library Carpentry module '[Data Intro for Archivists](https://data-lessons.github.io/data-intro-archives/)' is maintained by [Jenny Bunn](https://github.com/JennyBunn), [Noah Geraci](https://github.com/ngeraci), and [James Baker](https://github.com/drjwbaker).
